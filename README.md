@@ -1,4 +1,4 @@
-# 🌱 JobGarden — AI-Powered Recruitment System
+# JobGarden — AI-Powered Recruitment System
 
 ## 🚀 Overview
 
